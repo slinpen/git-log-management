@@ -1,0 +1,30 @@
+[
+  {
+    "id": "mvf0px5y",
+    "name": "svebin-ai-agent",
+    "path": "/Users/shayenyang/Workspace/Agent Projects/svebin-ai-agent/",
+    "branch": "feat/supabase_v",
+    "addedAt": 1792400064550,
+    "config": {
+      "startCommand": "npm run dev",
+      "port": null,
+      "cwd": "",
+      "autoOpen": true,
+      "env": {}
+    }
+  },
+  {
+    "id": "mvgau7ej",
+    "name": "model-platform-boostrap",
+    "path": "/Users/shayenyang/Workspace/SIE/projects/model-platform-boostrap/",
+    "branch": "feat/lang",
+    "addedAt": 1792477526779,
+    "config": {
+      "startCommand": "npm run dev",
+      "port": 8080,
+      "cwd": "",
+      "autoOpen": false,
+      "env": {}
+    }
+  }
+]
